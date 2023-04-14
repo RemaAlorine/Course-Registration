@@ -114,8 +114,63 @@ o Formal parameters: courseCode, traineeName
   <p></p>
   <p></p>
   
+  Cancel course registration: 
+  <br>
+  <p></p>
+  This choice enable the user to cancel the registration of a 
+course for a trainee, given the trainee name and course code. The method should return true 
+if the course registration is canceled successfully or false otherwise. 
+  <br>
+  <p></p>
+o Method name: cancelCourseRegisteration
+  <p></p>
+o Method type: boolean
+  <p></p>
+o Formal parameters: courseCode, traineeName
+  <p></p>
+  <p></p>
   
+ Find a course: 
+  <p></p>
+  <br>
+  This choice enable the user to view a course information, given the 
+course code. The method should return index of found course, -1 if not exist.
+  <p></p>
+  <br>
+o Method name: findCourse
+  <p></p>
+o Method type: int
+  <p></p>
+o Formal parameters: courseCode
+  <p></p>
+  <p></p>
   
+ Find registered courses: 
+  <br>
+  <p></p>
+  This choice enable the user to view list of registered courses 
+for a given trainee. The method should return courses list.
+  <br>
+  <p></p>
+o Method name: findRegisteredCourses
+  <p></p>
+o Method type: course[]
+  <p></p>
+o Formal parameters: traineeName
+  <p></p>
+  <p></p>
+  
+  PrintAll: 
+    <p></p>
+  <br>
+  This choice enable the user to view the information of all added courses
+  <br>
+    <p></p>
+o Method name: printAll
+    <p></p>
+o Method type: void
+    <p></p>
+o Formal parameters: no formal parameters
   
 <h5>
   
