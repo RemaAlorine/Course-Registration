@@ -2,9 +2,6 @@
 <h3 align="center">simple course registration system that tracks and facilitates the process of course registering for trainees <h3>
 
 
-<a href="https://github.com/RemaAlorine/Course-Registration/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=RemaAlorine/Course-Registration" />
-</a>
 
 
 
@@ -183,5 +180,8 @@ o Formal parameters: no formal parameters
 
   
 <h5>
-  
+  <h1>contributors<h1>
+ <a href="https://github.com/RemaAlorine/Course-Registration/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=RemaAlorine/Course-Registration" />
+</a>
   
