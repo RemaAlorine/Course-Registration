@@ -17,6 +17,7 @@
 -courseCode: String of wo letters followed by two digits.
   <br>
   <p></p>
+ 
 -weeklyTimeSlots: is a String of format: “DDD-S-E”, where D is an integer represent the 
 days number (1 to 5),ex: (135 means Sunday, Tuesday and Thursday), S is a digit 
 represents the session starting hour. E is a digit represents the session end hour.
