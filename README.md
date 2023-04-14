@@ -2,4 +2,10 @@
 <h3 align="center">simple course registration system that tracks and facilitates the process of course registering for trainees <h3>
 <h4 align="left">Functionalities: <h4>
 <h5 align="left">- adding a new course <h5>
-<h5 align="left">- adding a new course <h5>
+<h5 align="left">- Register a course for a trainee <h5>
+<h5 align="left">- Cancel Course Registration <h5>
+<h5 align="left">- Find and Display the information of a course <h5>
+<h5 align="left">- List All courses <h5>
+<h5 align="left">- Find and Display list of registered courses for a given trainee<h5>
+<h5 align="left">- Compute and Display the total tuition for a given trainee<h5>
+<h5 align="left">- Display total number of added courses <h5>
